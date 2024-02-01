@@ -12,5 +12,4 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Research
 ======
-Primary Areas: urban analytics, urban AI, and transportation planning.<br>
-Current topic: 
+Primary Areas: urban analytics, urban AI, and transportation planning.<be> Current topic: 
